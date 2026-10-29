@@ -64,5 +64,103 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Decode is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by true-ventures) and added to the network as a stub for full-pipeline profiling.
-- https://decode.dev
+Decode provides a collaborative visual canvas where developers and AI agents can plan, prototype, and iterate on applications. Users can integrate code from Claude Code, Codex, Cursor, or any MCP agent, and see live previews of every screen. The platform aims to streamline the development workflow by unifying design, code, and AI assistance in a single whiteboard, enabling teams to build faster and more efficiently.
+
+**Areas:** Company · AI · Collaboration · DeveloperTools · LowCode · Whiteboard
+
+## Decode on APIs.io
+
+Everything profiled for Decode is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/decode/](https://apis.io/providers/decode/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Decode API](https://apis.io/apis/decode/decode-api/) — Decode offers a whiteboard platform with an API for integrating AI agents and code tools.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Decode Authentication](https://apis.io/security/decode/decode-authentication/)
+- [Decode Domain Security](https://apis.io/security/decode/decode-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Decode Scopes](https://apis.io/scopes/decode/decode-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://decode.dev)
+- [Documentation](https://decode.dev/docs)
+- [Getting started](https://decode.dev/getting-started)
+- [API reference](https://decode.dev/api)
+- [Pricing](https://decode.dev/pricing)
+- [Sign up](https://decode.dev/signup)
+- [Support](https://decode.dev/support)
+- [Changelog](https://decode.dev/changelog)
+- [Blog](https://decode.dev/blog)
+- [Terms of service](https://decode.dev/terms)
+- [Privacy policy](https://decode.dev/privacy)
+- [GitHub](https://github.com/decode)
+
+## API Evangelist rating
+
+**Kin Score 29.1** — thin · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 50.0 |
+| Access clarity | 44.7 |
+
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 21.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/decode/](https://apis.io/providers/decode/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Decode: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/decode/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
